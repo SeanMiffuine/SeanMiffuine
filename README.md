@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently at the University of British Columbia studying Computer Science
 - 📫 How to reach me:
-  - instagram @miffuine
+  - instagram: https://www.instagram.com/miffuine
   - work.seantang@gmail.com
 
 <!---

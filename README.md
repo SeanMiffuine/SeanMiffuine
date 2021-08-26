@@ -6,7 +6,7 @@
   - work.seantang@gmail.com
 
 - Please check out the game SpellRise, where I am a Senior Artist/Dev
-[![Trailer]()](https://www.youtube.com/embed/cT_PHmHHZ_o)
+- [![Trailer]()](https://www.youtube.com/embed/cT_PHmHHZ_o)
 
 <!---
 SeanMiffuine/SeanMiffuine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

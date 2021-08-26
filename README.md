@@ -3,7 +3,7 @@
 
 #### Currently studying at University of British Columbia
 #### How to reach me:   
-   - *instagram: https://www.instagram.com/miffuine*  
+   - *https://www.instagram.com/miffuine*  
    - *work.seantang@gmail.com*  
  
  

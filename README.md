@@ -1,5 +1,5 @@
 # Hi
-#### I’m @SeanMiffuine, a game developer and artist
+#### I’m @SeanMiffuine, a computer scientist and artist
 
 #### Currently studying at University of British Columbia
 #### How to reach me:   

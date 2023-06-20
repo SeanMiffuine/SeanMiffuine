@@ -1,4 +1,4 @@
-# Hi
+# Hi :wave:
 #### I’m @SeanMiffuine, a computer scientist and artist
 
 #### Currently studying at University of British Columbia

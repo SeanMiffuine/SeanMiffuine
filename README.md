@@ -3,6 +3,8 @@
 #### Third Year Computer Science Student at the University of British Columbia
 
 *work.seantang@gmail.com*  
+
+Check out Spellrise : https://www.youtube.com/watch?v=cT_PHmHHZ_o
  
 <!---
 SeanMiffuine/SeanMiffuine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

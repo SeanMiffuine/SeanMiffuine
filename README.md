@@ -1,6 +1,6 @@
 # Hi :wave:
 #### I’m @SeanMiffuine
-#### Fourth Year Computer Science Student at the University of British Columbia
+#### Graduate of Computer Science Student at the University of British Columbia
 
 *work.seantang@gmail.com*  
 
